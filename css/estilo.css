@@ -10,23 +10,22 @@
     background-color: lightgrey;
     width: 150px;
     height: 200px;
-    border: 15px solid green;
+    border: 15px solid rgb(1, 19, 29);
     padding: 10px;
     margin: 20px;
   }
   .acertou {
     text-align: center;
-    color: yellow;
-    background-color: LawnGreen;
+    color: rgb(255, 255, 255);
+    background-color: rgb(24, 75, 101);
     width: 150px;
     height: 200px;
-    border: 15px solid yellow;
+    border: 15px solid rgb(3, 29, 43);
     padding: 10px;
     margin: 20px;
   }
   .errou {
     text-align: center;
-    font-size: 100px;
     color: white;
     background-color: red;
     width: 150px;
@@ -34,4 +33,45 @@
     border: 15px solid black;
     padding: 10px;
     margin: 20px;
+  }
+
+  #resposta {
+  font-size: 24px;
+  text-align: center;
+  }
+
+  #h1¹ {
+  text-align: center;
+  font-size: 40px
+  }
+
+  #p¹ {
+    text-align: center;
+    font-size: 35px;
+  }
+
+  #joganovamente {
+    font-size: 24px;
+    background-color: #86BBCB;
+  }
+
+  #reiniciar {
+    font-size: 24px;
+    background-color: #86BBCB;
+  }
+
+  #linha1 {
+    background-color: #2A3563;
+  }
+
+  #div1 {
+    background-color: #517DA2;
+  }
+
+  #principal {
+    background-color: #5A5C75;
+  }
+
+  #corpo {
+    background-color: #88D9DB;
   }
